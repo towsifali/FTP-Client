@@ -12,9 +12,9 @@ Program was written using C++ on Microsoft Visual Studio 2022
 
 4. Each instruction will behave in a different way:
 
-	* UPLOAD: The file to be uploaded should be in the same folder as the 56584862_56275217.cpp. Once the correct instruction is given, the window will display each line of the file that is sent. This file will be saved on the server. If the file is already on the server, the window will display a message explaining the situation.
+	* UPLOAD: The file to be uploaded should be in the same folder as the Client.cpp. Once the correct instruction is given, the window will display each line of the file that is sent. This file will be saved on the server. If the file is already on the server, the window will display a message explaining the situation.
 
-	* DOWNLOAD: If the file mentioned in the correct instruction is not saved on the server, the window will display an error message. Otherwise the file will be downloaded and saved in the same folder as 56584862_56275217.cpp file. Each line of the file will be displayed on the window.
+	* DOWNLOAD: If the file mentioned in the correct instruction is not saved on the server, the window will display an error message. Otherwise the file will be downloaded and saved in the same folder as Client.cpp file. Each line of the file will be displayed on the window.
 
 	* RETRIEVE: If the file mentioned in the correct instruction is not saved on the server, the window will display "NO". Otherwise, it will display "YES."
     
