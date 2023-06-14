@@ -2,6 +2,8 @@
 
 Program was written using C++ on Microsoft Visual Studio 2022
 
+![FTP Client Template](FTPClient.png)
+
 ## How to run/test the Client
 
 1. Compile the Client.cpp file (or run the executable file instead). It will start the Client Socket and open a prompt window. Start the server.py provided in the Server folder.
